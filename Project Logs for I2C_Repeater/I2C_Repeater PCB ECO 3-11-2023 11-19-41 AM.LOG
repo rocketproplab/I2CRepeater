@@ -1,0 +1,37 @@
+Added Component: Designator=J2(CON_436500501_MOL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "436500501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CON_436500501_MOL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "436500501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J4(CON_436500501_MOL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "436500501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS_PT Pin=J2-1
+Added Pin To Net: NetName=INA_PWR Pin=J2-2
+Added Pin To Net: NetName=SDA Pin=J2-3
+Added Pin To Net: NetName=SCL Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=VSS_PT Pin=J3-1
+Added Pin To Net: NetName=INA_PWR Pin=J3-2
+Added Pin To Net: NetName=SDA Pin=J3-3
+Added Pin To Net: NetName=SCL Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=VSS_PT Pin=J4-1
+Added Pin To Net: NetName=INA_PWR Pin=J4-2
+Added Pin To Net: NetName=SDA Pin=J4-3
+Added Pin To Net: NetName=SCL Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Member To Class: ClassName=I2C_Repeater Member=Component J2 436500501
+Added Member To Class: ClassName=I2C_Repeater Member=Component J3 436500501
+Added Member To Class: ClassName=I2C_Repeater Member=Component J4 436500501
+Added Room: Name=I2C_Repeater

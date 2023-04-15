@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=+5 Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=Green A Pin=J1-13
+Added Net: Name=Green A
+Added Pin To Net: NetName=Green C Pin=J1-14
+Added Net: Name=Green C
+Added Pin To Net: NetName=MNT1 Pin=J1-15
+Added Net: Name=MNT1
+Added Pin To Net: NetName=MNT2 Pin=J1-16
+Added Net: Name=MNT2
+Added Pin To Net: NetName=Yellow+ Pin=J1-11
+Added Net: Name=Yellow+
+Added Pin To Net: NetName=Yellow- Pin=J1-12
+Added Net: Name=Yellow-
+Added Room: Name=I2C_Repeater
